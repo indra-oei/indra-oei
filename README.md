@@ -3,7 +3,9 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-[![](https://img.shields.io/badge/-🔗%20LinkedIn-0e76a8)](https://www.linkedin.com/in/indraoei/)
+<a href="https://www.linkedin.com/in/indraoei/" target="_blank">
+    <img src="https://img.shields.io/badge/-🔗%20LinkedIn-0e76a8" alt="linkedin" />
+</a>
 
 I’m a system-oriented software engineer who enjoys turning messy, inefficient processes into structured, reliable systems.
 
